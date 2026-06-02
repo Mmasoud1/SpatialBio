@@ -2,16 +2,39 @@
 
 Concise spatial biology workflows for spatial transcriptomics, multiplex imaging, and multimodal biomedical analysis.
 
-## Current Demo
+it explores modern spatial omics workflows using the scverse ecosystem and extends toward AI-assisted biological analytics, multimodal data integration, and foundation-model exploration.
 
-The notebook demonstrates:
+
+## Interactive Notebooks
+
+### Spatial Transcriptomics Workflow
+
+[Open in Colab](https://colab.research.google.com/github/Mmasoud1/SpatialBio/blob/main/notebooks/SpatialBio_Transcriptomics_workflow.ipynb)
+
+Demonstrates:
 
 - Visium spatial transcriptomics preprocessing
-- QC analysis
-- UMAP + Leiden clustering
-- Marker gene visualization
+- Quality control (QC)
+- Highly variable gene selection
+- UMAP visualization
+- Leiden clustering
+- Marker gene discovery
+- Differential expression analysis
 - Spatial autocorrelation (Moran's I)
-- Differential expression between clusters
+
+
+
+### AnnData Copilot
+
+[Open in Colab](https://colab.research.google.com/github/Mmasoud1/SpatialBio/blob/main/notebooks/ai_assistant/anndata_copilot.ipynb)
+
+Demonstrates:
+
+- LLM-assisted biological analytics
+- Marker gene interpretation
+- Cluster summarization
+- Natural-language exploration of AnnData objects
+- Spatial transcriptomics result interpretation
 
 ## Quick Start
 
