@@ -9,7 +9,7 @@ it explores modern spatial omics workflows using the scverse ecosystem and exten
 
 ### Spatial Transcriptomics Workflow
 
-[Open in Colab](https://colab.research.google.com/github/Mmasoud1/SpatialBio/blob/main/notebooks/SpatialBio_Transcriptomics_workflow.ipynb)
+[Notebook](notebooks/SpatialBio_Transcriptomics_workflow.ipynb), [Open in Colab](https://colab.research.google.com/github/Mmasoud1/SpatialBio/blob/main/notebooks/SpatialBio_Transcriptomics_workflow.ipynb)
 
 Demonstrates:
 
@@ -26,7 +26,7 @@ Demonstrates:
 
 ### AnnData Copilot
 
-[Open in Colab](https://colab.research.google.com/github/Mmasoud1/SpatialBio/blob/main/notebooks/ai_assistant/anndata_copilot.ipynb)
+[Notebook](notebooks/ai_assistant/anndata_copilot.ipynb), [Open in Colab](https://colab.research.google.com/github/Mmasoud1/SpatialBio/blob/main/notebooks/ai_assistant/anndata_copilot.ipynb)
 
 Demonstrates:
 
