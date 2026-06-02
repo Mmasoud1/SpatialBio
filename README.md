@@ -1,4 +1,4 @@
-# SpatialBio
+# SpatialBio  [![Version](https://img.shields.io/badge/Version-0.1.0-brightgreen)]() [![MIT-License ](https://img.shields.io/badge/license-MIT-green)](https://github.com/Mmasoud1/MeshFL/blob/main/LICENSE) [![Python](https://img.shields.io/badge/Python-blue)]() 
 
 Concise spatial biology workflows for spatial transcriptomics, multiplex imaging, and multimodal biomedical analysis.
 
