@@ -36,6 +36,12 @@ Demonstrates:
 - Natural-language exploration of AnnData objects
 - Spatial transcriptomics result interpretation
 
+
+
+### Dataset
+
+This repository uses the 10x Genomics dataset, license: **CC BY 4.0**
+
 ## Quick Start
 
 ```bash
