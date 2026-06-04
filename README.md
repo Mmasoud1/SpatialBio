@@ -37,6 +37,19 @@ Demonstrates:
 - Spatial transcriptomics result interpretation
 
 
+### Foundation Model Morphology Embeddings for Visium
+
+[Notebook](notebooks/foundation_models/01_visium_dinov2_foundation_embeddings_demo.ipynb), [Open in Colab](https://colab.research.google.com/github/Mmasoud1/SpatialBio/blob/main/notebooks/foundation_models/01_visium_dinov2_foundation_embeddings_demo.ipynb)
+
+Demonstrates:
+
+- H&E patch extraction around Visium spots
+- DINOv2 image embeddings
+- Foundation-model-based morphology representation
+- Morphology–transcriptomics integration
+- UMAP visualization of image embeddings
+- Comparison of morphology clusters with transcriptomic Leiden clusters
+
 
 ### Dataset
 
