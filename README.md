@@ -57,18 +57,11 @@ Demonstrates:
 
 Demonstrates:
 
-DINOv2
-PLIP
-UNI
-CONCH
-Virchow 
+- DINOv2, PLIP, UNI, CONCH, Virchow 
 
 Comparison metrics:
 
-ARI
-NMI
-Cluster visualization
-Morphology–transcriptomics agreement
+- ARI, NMI, Cluster visualization, Morphology–transcriptomics agreement
 
 
 ### Biological Annotation
@@ -77,8 +70,9 @@ Morphology–transcriptomics agreement
 
 Demonstrates:
 
-Identify transcriptomic regions
-Annotate tissue compartments
+- Identify transcriptomic regions
+
+- Annotate tissue compartments
 
 
 ### Dataset
