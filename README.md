@@ -51,6 +51,26 @@ Demonstrates:
 - Comparison of morphology clusters with transcriptomic Leiden clusters
 
 
+### Foundation Model Comparison
+
+[Notebook](notebooks/foundation_models/02_visium_foundation_models_comparison.ipynb), [Open in Colab](https://colab.research.google.com/github/Mmasoud1/SpatialBio/blob/main/notebooks/foundation_models/02_visium_foundation_models_comparison.ipynb)
+
+Demonstrates:
+
+DINOv2
+PLIP
+UNI
+CONCH
+Virchow 
+
+Comparison metrics:
+
+ARI
+NMI
+Cluster visualization
+Morphology–transcriptomics agreement
+
+
 ### Dataset
 
 This repository uses the 10x Genomics dataset, license: **CC BY 4.0**
