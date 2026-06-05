@@ -71,6 +71,16 @@ Cluster visualization
 Morphology–transcriptomics agreement
 
 
+### Biological Annotation
+
+[Notebook](notebooks/biological_annotation/03_visium_biological_annotation.ipynb), [Open in Colab](https://colab.research.google.com/github/Mmasoud1/SpatialBio/blob/main/notebooks/biological_annotation/03_visium_biological_annotation.ipynb)
+
+Demonstrates:
+
+Identify transcriptomic regions
+Annotate tissue compartments
+
+
 ### Dataset
 
 This repository uses the 10x Genomics dataset, license: **CC BY 4.0**
